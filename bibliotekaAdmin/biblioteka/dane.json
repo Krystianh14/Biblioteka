@@ -1,0 +1,887 @@
+{
+  "Ksiazki": [
+    {
+      "Id": 10,
+      "Tytul": "Atomowe nawyki",
+      "Autor": "James Clear",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Wojciech Kawula"
+    },
+    {
+      "Id": 11,
+      "Tytul": "Pułapki myślenia",
+      "Autor": "Daniel Kahneman",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Monika Kafel"
+    },
+    {
+      "Id": 12,
+      "Tytul": "Potęga teraźniejszości",
+      "Autor": "Eckhart Tolle",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Małgorzata Klich"
+    },
+    {
+      "Id": 13,
+      "Tytul": "Psychologia pieniędzy",
+      "Autor": "Morgan Housel",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 14,
+      "Tytul": "Teoria \"pozwól im\"",
+      "Autor": "Mel Robbins",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 15,
+      "Tytul": "Kandydat",
+      "Autor": "Jakub Żulczyk",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 16,
+      "Tytul": "Nowy wspaniały świat",
+      "Autor": "Aldous Huxley",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 17,
+      "Tytul": "Godzina wiedźm",
+      "Autor": "Alexis Henderson",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 18,
+      "Tytul": "Zbrodnia i kara",
+      "Autor": "Fiodor Dostojewski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 10,
+      "Tytul": "Dżuma",
+      "Autor": "Albert Camus",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 11,
+      "Tytul": "Null",
+      "Autor": "Szczepan Twardoch",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 12,
+      "Tytul": "Ziemianie",
+      "Autor": "Sayaka Murata",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 13,
+      "Tytul": "Rok 1984",
+      "Autor": "George Orwell",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 14,
+      "Tytul": "Zabić drozda",
+      "Autor": "Harper Lee",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 15,
+      "Tytul": "Do perfekcji",
+      "Autor": "Vincenzo Latronico",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 16,
+      "Tytul": "Colette",
+      "Autor": "Valerie Perrin",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 17,
+      "Tytul": "Duduś. Prezydent we mgle",
+      "Autor": "Jacek Gądek",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 18,
+      "Tytul": "Blask Montparnasse'u",
+      "Autor": "Sylwia Zientek",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Kamil Rams"
+    },
+    {
+      "Id": 19,
+      "Tytul": "Oswoić narkomana",
+      "Autor": "Irena A. Stanisławska Robert",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Bartek Kubicki"
+    },
+    {
+      "Id": 20,
+      "Tytul": "Kiedy Bóg odwrócił wzrok",
+      "Autor": "Wiesław Adamczyk",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 21,
+      "Tytul": "Męskie gadanie",
+      "Autor": "Beata Biały",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 22,
+      "Tytul": "Witkacy. Biografia",
+      "Autor": "Przemysław Pawlak",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 23,
+      "Tytul": "PRL na czterech kółkach",
+      "Autor": "Sławomir Koper",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Natalia Szpada"
+    },
+    {
+      "Id": 24,
+      "Tytul": "Droga do siebie. O poczuciu wartości",
+      "Autor": "Ewa Woydyłło",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 25,
+      "Tytul": "Nowa Ziemia",
+      "Autor": "Eckhart Tolle",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Wojciech Kawula"
+    },
+    {
+      "Id": 26,
+      "Tytul": "Rozmyślania",
+      "Autor": "Marek Aureliusz",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 27,
+      "Tytul": "Mózg i serce - magiczny duet",
+      "Autor": "James R Doty",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 28,
+      "Tytul": "Żelazny jan",
+      "Autor": "Robert Bly",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 29,
+      "Tytul": "Tako rzecze Zaratustra",
+      "Autor": "Fryderyk Nietzsche",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 30,
+      "Tytul": "Człowiek i jego symbole",
+      "Autor": "Carl Gustaw Jung",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 31,
+      "Tytul": "Żelazny jan",
+      "Autor": "Robert Bly",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 32,
+      "Tytul": "Hobbit",
+      "Autor": "J. R. R. Tolkien",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 33,
+      "Tytul": "Nie wymiękaj",
+      "Autor": "Stephen King",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 34,
+      "Tytul": "Rozdroże kruków. Wiedźmin. Tom 9",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 35,
+      "Tytul": "Ostatnie życzenie. Wiedźmin. Tom 1",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 36,
+      "Tytul": "Powrót Cienia [Historia Śródziemia t. 6]",
+      "Autor": "J. R. R. Tolkien Christopher Tolkien",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Natalia Szpada"
+    },
+    {
+      "Id": 37,
+      "Tytul": "Solomon Kane",
+      "Autor": "Howard Robert Ervin",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 38,
+      "Tytul": "Miecz przeznaczenia. Wiedźmin. Tom 2",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 39,
+      "Tytul": "Krew elfów. Wiedźmin. Tom 3",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 40,
+      "Tytul": "Chrzest ognia. Wiedźmin. Tom 5",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": true,
+      "WypozyczonaPrzez": "Jan Kowalski"
+    },
+    {
+      "Id": 41,
+      "Tytul": "Pani Jeziora. Wiedźmin. Tom 7",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 42,
+      "Tytul": "Czas pogardy. Wiedźmin. Tom 4",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 43,
+      "Tytul": "Wieża jaskółki. Wiedźmin. Tom 6",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 44,
+      "Tytul": "Sezon burz. Wiedźmin. Tom 8",
+      "Autor": "Andrzej Sapkowski",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    },
+    {
+      "Id": 45,
+      "Tytul": "aaa",
+      "Autor": "bb",
+      "CzyWypozyczona": false,
+      "WypozyczonaPrzez": null
+    }
+  ],
+  "Czytelnicy": [
+    {
+      "Id": 1,
+      "HistoriaWypozyczen": [],
+      "Imie": "Jan",
+      "Nazwisko": "Kowalski"
+    },
+    {
+      "Id": 2,
+      "HistoriaWypozyczen": [],
+      "Imie": "Michał",
+      "Nazwisko": "Kowalkiewicz"
+    },
+    {
+      "Id": 3,
+      "HistoriaWypozyczen": [],
+      "Imie": "Kacper",
+      "Nazwisko": "Urban"
+    },
+    {
+      "Id": 5,
+      "HistoriaWypozyczen": [],
+      "Imie": "Krystian",
+      "Nazwisko": "Haberka"
+    },
+    {
+      "Id": 6,
+      "HistoriaWypozyczen": [],
+      "Imie": "Dawid",
+      "Nazwisko": "Tkaczyk"
+    },
+    {
+      "Id": 7,
+      "HistoriaWypozyczen": [],
+      "Imie": "Kamil",
+      "Nazwisko": "Rams"
+    },
+    {
+      "Id": 8,
+      "HistoriaWypozyczen": [],
+      "Imie": "Mikołaj",
+      "Nazwisko": "Rozwada"
+    },
+    {
+      "Id": 9,
+      "HistoriaWypozyczen": [],
+      "Imie": "Paulina",
+      "Nazwisko": "Hak"
+    },
+    {
+      "Id": 10,
+      "HistoriaWypozyczen": [],
+      "Imie": "Wiktoria",
+      "Nazwisko": "Miś"
+    },
+    {
+      "Id": 11,
+      "HistoriaWypozyczen": [],
+      "Imie": "Artur",
+      "Nazwisko": "Lis"
+    },
+    {
+      "Id": 12,
+      "HistoriaWypozyczen": [],
+      "Imie": "Małgorzata",
+      "Nazwisko": "Klich"
+    },
+    {
+      "Id": 13,
+      "HistoriaWypozyczen": [],
+      "Imie": "Monika",
+      "Nazwisko": "Kafel"
+    },
+    {
+      "Id": 14,
+      "HistoriaWypozyczen": [],
+      "Imie": "Natalia",
+      "Nazwisko": "Szpada"
+    },
+    {
+      "Id": 15,
+      "HistoriaWypozyczen": [],
+      "Imie": "Wojciech",
+      "Nazwisko": "Kawula"
+    },
+    {
+      "Id": 16,
+      "HistoriaWypozyczen": [],
+      "Imie": "Karolina",
+      "Nazwisko": "Żurek"
+    },
+    {
+      "Id": 16,
+      "HistoriaWypozyczen": [],
+      "Imie": "Paweł",
+      "Nazwisko": "Abramowicz"
+    },
+    {
+      "Id": 17,
+      "HistoriaWypozyczen": [],
+      "Imie": "Bartek",
+      "Nazwisko": "Kubicki"
+    },
+    {
+      "Id": 18,
+      "HistoriaWypozyczen": [],
+      "Imie": "Magdalena",
+      "Nazwisko": "Gamrat"
+    },
+    {
+      "Id": 19,
+      "HistoriaWypozyczen": [],
+      "Imie": "aa",
+      "Nazwisko": "bb"
+    }
+  ],
+  "Wypozyczenia": [
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 1,
+        "Tytul": "pierwsza",
+        "Autor": "Ksiażka",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": null
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:23:00.5057186+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 7,
+        "Tytul": "Dziady",
+        "Autor": "Mickiewicz",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": null
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:23:03.3824326+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 7,
+        "Tytul": "Dziady",
+        "Autor": "Mickiewicz",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": null
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:26:59.2503771+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 6,
+        "Tytul": "Nowa",
+        "Autor": "Książka",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": null
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:27:01.6648752+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 1,
+        "Tytul": "pierwsza",
+        "Autor": "Ksiażka",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": null
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:27:03.5048668+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 9,
+        "Tytul": "kolejna",
+        "Autor": "Książka",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:34:05.362641+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 5,
+        "Tytul": "kawał",
+        "Autor": "Książki",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:34:10.3057763+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 8,
+        "Tytul": "Kamizelka",
+        "Autor": "Prus",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Michał Kowalkiewicz"
+      },
+      "Czytelnik": {
+        "Id": 2,
+        "HistoriaWypozyczen": [],
+        "Imie": "Michał",
+        "Nazwisko": "Kowalkiewicz"
+      },
+      "DataWypozyczenia": "2025-06-20T13:34:15.4646735+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 4,
+        "Tytul": "czwarta",
+        "Autor": "książka",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "wypożyczona przez: Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:35:24.0095974+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 12,
+        "Tytul": "Ziemianie",
+        "Autor": "Sayaka Murata",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:51:18.0401136+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 14,
+        "Tytul": "Zabić drozda",
+        "Autor": "Harper Lee",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:51:29.2718481+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 14,
+        "Tytul": "Teoria \"pozwól im\"",
+        "Autor": "Mel Robbins",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:51:59.5201327+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 15,
+        "Tytul": "Do perfekcji",
+        "Autor": "Vincenzo Latronico",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:52:14.9201339+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 16,
+        "Tytul": "Nowy wspaniały świat",
+        "Autor": "Aldous Huxley",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:53:33.3668848+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 16,
+        "Tytul": "Colette",
+        "Autor": "Valerie Perrin",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:53:35.733197+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 22,
+        "Tytul": "Witkacy. Biografia",
+        "Autor": "Przemysław Pawlak",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-20T13:53:41.0617277+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 23,
+        "Tytul": "PRL na czterech kółkach",
+        "Autor": "Sławomir Koper",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Natalia Szpada"
+      },
+      "Czytelnik": {
+        "Id": 14,
+        "HistoriaWypozyczen": [],
+        "Imie": "Natalia",
+        "Nazwisko": "Szpada"
+      },
+      "DataWypozyczenia": "2025-06-20T14:10:23.909039+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 25,
+        "Tytul": "Nowa Ziemia",
+        "Autor": "Eckhart Tolle",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Wojciech Kawula"
+      },
+      "Czytelnik": {
+        "Id": 15,
+        "HistoriaWypozyczen": [],
+        "Imie": "Wojciech",
+        "Nazwisko": "Kawula"
+      },
+      "DataWypozyczenia": "2025-06-20T14:10:56.1808852+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 10,
+        "Tytul": "Atomowe nawyki",
+        "Autor": "James Clear",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Wojciech Kawula"
+      },
+      "Czytelnik": {
+        "Id": 15,
+        "HistoriaWypozyczen": [],
+        "Imie": "Wojciech",
+        "Nazwisko": "Kawula"
+      },
+      "DataWypozyczenia": "2025-06-28T22:58:57.318126+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 18,
+        "Tytul": "Blask Montparnasse'u",
+        "Autor": "Sylwia Zientek",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Kamil Rams"
+      },
+      "Czytelnik": {
+        "Id": 7,
+        "HistoriaWypozyczen": [],
+        "Imie": "Kamil",
+        "Nazwisko": "Rams"
+      },
+      "DataWypozyczenia": "2025-06-28T22:59:06.1802331+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 40,
+        "Tytul": "Chrzest ognia. Wiedźmin. Tom 5",
+        "Autor": "Andrzej Sapkowski",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Jan Kowalski"
+      },
+      "Czytelnik": {
+        "Id": 1,
+        "HistoriaWypozyczen": [],
+        "Imie": "Jan",
+        "Nazwisko": "Kowalski"
+      },
+      "DataWypozyczenia": "2025-06-28T22:59:20.0543758+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 19,
+        "Tytul": "Oswoić narkomana",
+        "Autor": "Irena A. Stanisławska Robert",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Bartek Kubicki"
+      },
+      "Czytelnik": {
+        "Id": 17,
+        "HistoriaWypozyczen": [],
+        "Imie": "Bartek",
+        "Nazwisko": "Kubicki"
+      },
+      "DataWypozyczenia": "2025-06-28T22:59:37.849955+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 12,
+        "Tytul": "Potęga teraźniejszości",
+        "Autor": "Eckhart Tolle",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Małgorzata Klich"
+      },
+      "Czytelnik": {
+        "Id": 12,
+        "HistoriaWypozyczen": [],
+        "Imie": "Małgorzata",
+        "Nazwisko": "Klich"
+      },
+      "DataWypozyczenia": "2025-06-29T09:52:32.5388319+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 36,
+        "Tytul": "Powrót Cienia [Historia Śródziemia t. 6]",
+        "Autor": "J. R. R. Tolkien Christopher Tolkien",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Natalia Szpada"
+      },
+      "Czytelnik": {
+        "Id": 14,
+        "HistoriaWypozyczen": [],
+        "Imie": "Natalia",
+        "Nazwisko": "Szpada"
+      },
+      "DataWypozyczenia": "2025-06-29T10:31:00.0293783+02:00",
+      "DataZwrotu": null
+    },
+    {
+      "Id": 0,
+      "Ksiazka": {
+        "Id": 11,
+        "Tytul": "Pułapki myślenia",
+        "Autor": "Daniel Kahneman",
+        "CzyWypozyczona": true,
+        "WypozyczonaPrzez": "Monika Kafel"
+      },
+      "Czytelnik": {
+        "Id": 13,
+        "HistoriaWypozyczen": [],
+        "Imie": "Monika",
+        "Nazwisko": "Kafel"
+      },
+      "DataWypozyczenia": "2025-06-29T10:31:10.8176842+02:00",
+      "DataZwrotu": null
+    }
+  ]
+}

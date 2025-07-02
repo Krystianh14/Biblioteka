@@ -1,0 +1,13 @@
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\bin\Debug\bibliotekaAdmin.exe.config
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\bin\Debug\bibliotekaAdmin.exe
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\bin\Debug\bibliotekaAdmin.pdb
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.csproj.AssemblyReference.cache
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.Form1.resources
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.Properties.Resources.resources
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.csproj.GenerateResource.cache
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.exe
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliotekaAdmin.pdb
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kryst\source\repos\bibliotekaAdmin\bibliotekaAdmin\obj\Debug\bibliote.BF06E466.Up2Date
